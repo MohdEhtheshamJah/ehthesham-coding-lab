@@ -1,4 +1,4 @@
-public class Palindrome_StringApproach {
+public class Palindrome_StringBuilderApproach {
 
     public static void main(String[] args){
 
