@@ -1,3 +1,8 @@
+/**
+ *
+ *  Two-pointer approach compares characters from both ends of the string, moving towards the center.
+ */
+
 public class Palindrome_TwoPointerApproach {
 
     public static void main(String[] args) {
